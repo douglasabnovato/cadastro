@@ -9,7 +9,7 @@
 
 ## 🎨 Projeto
 
-- Um crud de nome e idade com um fluxo de navegação de rotas.
+- Projeto de cadastro com todo o fluxo crud.
 
 ## 💻 Tecnologias
 
