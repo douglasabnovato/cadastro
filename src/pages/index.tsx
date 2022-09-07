@@ -1,3 +1,5 @@
+import Head from 'next/head'
+
 import Layout from "../components/Layout";
 import Tabela from "../components/Tabela";
 import Botao from "../components/Botao"; 
@@ -24,7 +26,10 @@ export default function Home(){
             bg-gradient-to-r from-blue-500 to-purple-500
             text-white    
         `}>
-            <Layout titulo="Cadastro Simples">
+            <Head>
+                <title>Cadastro</title>
+            </Head>
+            <Layout titulo="Cadastro">
                 { tabelaVisivel ? (
                     <>
                         <div className="flex justify-end">
