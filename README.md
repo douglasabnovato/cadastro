@@ -15,14 +15,15 @@
 
 - [x] 1. Html, css, javascript, jsx
 - [x] 2. React: componentes, props, estado
-- [x] 3. Componente de classe 
-- [x] 4. componente funcional em react com [hooks](https://reactjs.org/docs/hooks-intro.html)
-- [x] 5. navegação com React-Router
-- [x] 6. Formulário
-- [x] 7. API
-- [x] 8. Next.JS 
-- [x] 9. Tailwind Css 
-- [x] 10. Firebase Console 
+- [x] 3. Node
+- [x] 4. Componente de classe 
+- [x] 5. Componente funcional em react com [hooks](https://reactjs.org/docs/hooks-intro.html)
+- [x] 6. navegação com react-router
+- [x] 7. Formulário
+- [x] 8. API
+- [x] 9. Nextjs 
+- [x] 10. Tailwind Css 
+- [x] 11. Firebase Console 
 
 ## 💻 Detalhes do projeto
 
