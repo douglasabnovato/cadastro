@@ -78,7 +78,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [x] 11. Firestore deletado devido a informações sensíveis
 - [x] 12. favicon hooks
 - [x] 13. título da página
-- [x] 15. fonts google 
+- [x] 14. fonts google 
 
 ## 🚀 Seções 
 
