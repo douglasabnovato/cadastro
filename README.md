@@ -3,7 +3,7 @@
 </h4> 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela.jpg"> 
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-1.jpg"> 
 </p> 
 
 ## 🎨 Projeto
@@ -13,8 +13,8 @@
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela.jpg" width="400px">  
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-2.jpg" width="400px"> 
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-1.jpg" width="400px">  
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-3.jpg" width="400px"> 
 </p> 
 
 ## 💻 Tecnologias
