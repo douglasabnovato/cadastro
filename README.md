@@ -14,7 +14,7 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
   <img alt="Cadastro" title="#Cadastro" src="./.github/tela-1.jpg" width="400px">  
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-3.jpg" width="400px"> 
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-4.jpg" width="400px"> 
 </p> 
 
 ## 💻 Tecnologias
