@@ -1,15 +1,21 @@
 <h4 align="center"> 
 	🚧 Cadastro 🚀
-</h4>   
+</h4> 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela.jpg" width="400px">  
-  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-2.jpg" width="400px"> 
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela.jpg"> 
 </p> 
 
 ## 🎨 Projeto
 
 - Projeto de cadastro com todo o fluxo crud.
+
+## 🎨 Layout
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela.jpg" width="400px">  
+  <img alt="Cadastro" title="#Cadastro" src="./.github/tela-2.jpg" width="400px"> 
+</p> 
 
 ## 💻 Tecnologias
 
@@ -74,7 +80,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [x] 7. Instalar extensão Tailwind CSS IntelliSense
 - [x] 8. Heroicons: ícones edit e trash
 - [x] 9. Firebase: `npm install firebase`
-- [x] 9.1. Configuração do db - warnings
+- [x] 9.1. Configuração do db - firebase/config.ts 
 - [x] 10. Organizando código com Hooks
 - [x] 11. Firestore deletado devido a informações sensíveis
 - [x] 12. favicon hooks
