@@ -83,7 +83,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 🚀 Seções 
 
-- [x] Projeto de Cadastro [82 - 122] 
+- [x] Princípios de Nextjs e React [82 - 104] 
+- [x] Projeto Cadastro [105 - 122] 
 
 ## 📝 Licença
 
