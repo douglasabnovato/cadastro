@@ -87,6 +87,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [x] 13. título da página
 - [x] 14. fonts google 
 
+### 🚀 Variáveis locais
+
+projeto cadastro no firebase console
+NEXT_PUBLIC_FIREBASE_API_KEY="informações no projeto no firebase console"
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="informações no projeto no firebase console".firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID="informações no projeto no firebase console"
+
 ## 🚀 Seções 
 
 - [x] Princípios de Nextjs e React [82 - 104] 
